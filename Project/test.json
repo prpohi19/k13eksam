@@ -1,0 +1,44 @@
+{
+  "Questions" : [
+    {"Question": "What do you do?",
+      "Motivations": [
+        10,
+        5,
+        -10,
+        0
+      ],
+      "Answers": [
+        "Eat",
+        "Play",
+        "Gamble",
+        "Sleep"
+      ],
+      "Count": [
+        0,
+        0,
+        0,
+        0
+      ]
+  },
+  {"Question": "When you are angry, what do you do?",
+    "Motivations": [
+      3,
+      -5,
+      -10,
+      15
+    ],
+    "Answers": [
+      "Eat",
+      "Beat somebody up",
+      "Crush some things",
+      "Listen to some relaxing music"
+    ],
+    "Count": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+  ]
+}

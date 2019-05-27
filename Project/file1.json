@@ -1,0 +1,13 @@
+{
+  "Questions":
+  [
+    "Question: What do you do?",
+    [
+      ["Eat","Play","Gamble","Sleep"]
+    ],
+    "Question: When you are angry, what do you do?",
+    [
+      ["Eat","Beat somebody up","Crush some things","Listen to some relaxing music"]
+    ]
+  ]
+}
