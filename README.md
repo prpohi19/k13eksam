@@ -1,1 +1,1 @@
-# k13eksam
+# k13eksam RNA transleerimine
