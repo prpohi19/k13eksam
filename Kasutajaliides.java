@@ -174,7 +174,7 @@ public class Kasutajaliides
         aken.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         aken.setSize(new Dimension(790, 640));        
         aken.setLocationRelativeTo(null);
-        aken.setTitle("DNA uurimine.");
+        aken.setTitle("RNA uurimine.");
 
         aken.setLayout(new BorderLayout());
         aken.add(P6histruktuur, BorderLayout.CENTER);
